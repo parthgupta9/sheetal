@@ -1,5 +1,5 @@
 {
-  "name": "second",
+  "name": "tiger-hero-pdf",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^5.2.1"
   }
 }
